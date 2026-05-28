@@ -24,8 +24,9 @@
 
 | Роль | Участник |
 |------|----------|
-| Product Owner + Data Architect | Участник 1 (ФИО) |
-| Software Architect + Data Engineer | Участник 2 (ФИО) |
+| Product Owner + Data Architect | Субботин Александр |
+| Software Architect | Кутуков Даниил |
+| Data Engineer | Кижваткин Никита |
 
 ## Требования к дизайн-документу
 
